@@ -131,6 +131,21 @@ p {
     display: table;
 }
 
+.section-title h3 {
+    font-family: var(--ff-secondary);
+    color: var(--clr-primary);
+}
+
+.section-title {
+    margin-bottom: 2rem;
+}
+
+.section-center {
+    padding: 4rem 0;
+    width: 85vw;
+    margin: 0 auto;
+}
+
 /* ==============
 Header
 ==================*/
@@ -227,3 +242,7 @@ Skills
         width: 25%;
     }
 }
+
+/* ==============
+About
+==================*/
